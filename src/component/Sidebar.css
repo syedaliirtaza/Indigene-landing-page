@@ -1,0 +1,15 @@
+.sidebar__nav > ul {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  position: absolute;
+  left: 70px;
+  top: 26rem;
+  color: white;
+  transform: rotate(-90deg);
+  font-size: 12px;
+}
+.sidebar__nav > ul > li {
+  padding: 1em;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
